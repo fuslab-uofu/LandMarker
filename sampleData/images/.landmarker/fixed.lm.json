@@ -1,0 +1,42 @@
+{
+  "schema_version": "1",
+  "landmarker_version": "0.1.0",
+  "image_uid": "bf18ec275268566c",
+  "uid_algo": "sha256",
+  "space": "RAS",
+  "dtype": "<f4",
+  "shape": [
+    384,
+    144,
+    512
+  ],
+  "spacing": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "affine_rounded_1e-6": [
+    0.5,
+    0.0,
+    0.0,
+    -117.5,
+    0.0,
+    0.5,
+    0.0,
+    -91.75,
+    0.0,
+    0.0,
+    0.5,
+    -148.5,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "data_sha256_short": "56881ad4a492ef04",
+  "created_at": "2026-09-29T22:32:35Z",
+  "source_full_path": "C:\\MKProjects\\Papers\\LandMarker\\SoftwareX\\sampleData\\images\\fixed.nii.gz",
+  "source_basename": "fixed.nii.gz",
+  "file_size": 4887917,
+  "file_mtime_epoch": 1770318310.3871052
+}

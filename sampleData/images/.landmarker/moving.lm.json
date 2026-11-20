@@ -1,0 +1,42 @@
+{
+  "schema_version": "1",
+  "landmarker_version": "0.1.0",
+  "image_uid": "1c40f3c834fea5f0",
+  "uid_algo": "sha256",
+  "space": "RAS",
+  "dtype": "<f4",
+  "shape": [
+    384,
+    144,
+    512
+  ],
+  "spacing": [
+    0.5,
+    0.5,
+    0.5
+  ],
+  "affine_rounded_1e-6": [
+    0.5,
+    0.0,
+    0.0,
+    -117.5,
+    0.0,
+    0.5,
+    0.0,
+    -91.75,
+    0.0,
+    0.0,
+    0.5,
+    -148.5,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "data_sha256_short": "79b78deed967cb8e",
+  "created_at": "2026-09-29T22:32:23Z",
+  "source_full_path": "C:\\MKProjects\\Papers\\LandMarker\\SoftwareX\\sampleData\\images\\moving.nii.gz",
+  "source_basename": "moving.nii.gz",
+  "file_size": 5874967,
+  "file_mtime_epoch": 1770318310.3032148
+}
